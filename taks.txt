@@ -1,0 +1,29 @@
+1 - instalar/importar bibliotecas importantes
+    express winston cors
+
+2 - configurar .gitgnore
+    # Ignore a pasta node_modules
+    */node_modules/*
+    
+2 - criar arquivo json(db)
+
+3 - configurar rotas padrões 
+    
+    GET
+    Item 1 - /marcas/maisModelos 
+    Item 2 - /marcas/menosModelos 
+    Item 3 - /marcas/listaMaisModelos/X 
+    Item 4 - /marcas/listaMenosModelos/X
+
+    POST
+    Item 5 - /marcas/listaModelos
+
+4 - configurar ambiente no imsomnia para testar rotas 
+
+5 - pedir ajuda ao chat gpt e criar algoritimos
+
+6 - tratamento de erros
+
+7 - Tratamento de segurança
+
+8 - setar logs
